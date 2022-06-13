@@ -3,3 +3,4 @@ How to geolocate a user:
 upload leaflet library
 use the locate() function
 add 'watch: true' to keep tracking the user
+setInterval to update the user's location every 2 seconds
