@@ -1,0 +1,4 @@
+How to geolocate a user:
+
+upload leaflet library
+use the locate() function
